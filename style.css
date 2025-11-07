@@ -37,7 +37,7 @@ h1,
   color: #718096;
 }
 #container {
-  width: 250px;
+  width: 85%;
   margin: 0 auto;
   padding: 2rem;
   background: rgb(210, 245, 252);
@@ -79,4 +79,5 @@ ul a:hover {
 ul a:active {
   transform: scale(1.01);
 }
+
 
