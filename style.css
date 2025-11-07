@@ -37,7 +37,7 @@ h1,
   color: #718096;
 }
 #container {
-  width: 400px;
+  width: 250px;
   margin: 0 auto;
   padding: 2rem;
   background: rgb(210, 245, 252);
@@ -79,3 +79,4 @@ ul a:hover {
 ul a:active {
   transform: scale(1.01);
 }
+
